@@ -1,5 +1,3 @@
-package sample;
-
 public class InvalidPersonException extends IllegalArgumentException{
 
     public InvalidPersonException(String message){
